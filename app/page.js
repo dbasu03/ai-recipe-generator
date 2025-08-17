@@ -89,7 +89,7 @@ export default function Home() {
 
         {recipe && (
           <div className="recipe-output">
-            <h3 style={{ marginBottom: '1rem', color: '#1f2937' }}>Your AI-Generated Recipe:</h3>
+            <h3 style={{ marginBottom: '1rem', color: '#1f2937' }}>Your Recipe:</h3>
             {recipe}
           </div>
         )}
