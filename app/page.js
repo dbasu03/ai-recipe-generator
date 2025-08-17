@@ -42,9 +42,9 @@ export default function Home() {
   return (
     <div className="container">
       <div className="recipe-generator">
-        <h1 className="title">🍳 AI Recipe Generator</h1>
+        <h1 className="title">🍳 Find My Recipe</h1>
         <p className="subtitle">
-          Enter your available ingredients and let AI create a delicious recipe for you!
+          Enter your available ingredients and we will tell you what you can cook at home!
         </p>
 
         <div className="example">
