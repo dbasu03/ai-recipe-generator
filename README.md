@@ -1,3 +1,5 @@
+# Live Link - https://my-recipe-six-gilt.vercel.app/
+
 # 🍳 AI Recipe Generator
 
 A full-stack web application that generates delicious recipes from available ingredients using AI. Built with Next.js, React, and Google's Gemini Pro model. **Fully mobile-responsive and optimized for all devices!**
