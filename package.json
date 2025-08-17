@@ -1,0 +1,32 @@
+{
+  "name": "ai-recipe-generator",
+  "version": "1.0.0",
+  "description": "AI-powered recipe generator using Google Gemini API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "axios": "^1.6.0",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "keywords": [
+    "recipe",
+    "ai",
+    "gemini",
+    "google",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
