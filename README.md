@@ -1,4 +1,4 @@
-# Live Link - https://my-recipe-six-gilt.vercel.app/
+# Live Link - https://find-my-recipe-eight.vercel.app/
 
 # 🍳 AI Recipe Generator
 
