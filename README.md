@@ -1,4 +1,4 @@
-# Live Link - https://find-my-recipe-eight.vercel.app/
+# Live Link - https://findmyrecipetoday.vercel.app/
 
 # 
 
